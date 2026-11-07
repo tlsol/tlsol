@@ -31,8 +31,8 @@ I put my first server online in 2017, when I was eleven. Since then I've sold tw
 
 ### Networks
 
-| ASN | |
-|---|---|
+| ASN | RIR | Description | 
+|---|---|---|
 | [AS9515](https://bgp.tools/as/9515) | APNIC | compute.inc backbone |
 | [AS219070](https://bgp.tools/as/219070) | RIPE | compute.inc |
 | [AS399670](https://bgp.tools/as/399670) | ARIN | compute.inc |
